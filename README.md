@@ -1,9 +1,9 @@
 ## Donation plugin for Hytale (Tip4Serv)
 
-This plugin connects your [Tip4Serv.com](https://tip4serv.com/?ads=github) store to your **Hytale** server.  
-It automatically checks if a player has made a purchase on your Tip4Serv store and delivers the order in-game (ranks, items, permissions, commands…) within a minute by executing server-side commands.
+This plugin mod connects your [Tip4Serv.com](https://tip4serv.com/?ads=github) store to your **Hytale** server.
+It automatically checks if a player has made a donation on your Tip4Serv store and delivers the order in-game (ranks, items, permissions, commands…) within a minute by executing server-side commands.
 
-This solution is designed to be simple, secure, and fully automated.
+This solution is designed to monetize your Hytale server.
 
 ---
 
