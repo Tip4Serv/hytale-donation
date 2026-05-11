@@ -69,8 +69,7 @@ Before starting, you **must** create a Tip4Serv account and add your Hytale serv
    👉 https://tip4serv.com/dashboard/my-servers  
 3) Add a new **Hytale** server and follow the on-screen instructions  
 4) Download and install the plugin on your Hytale server  
-5) Configure your API key as indicated in the plugin configuration file  
-6) Start or restart your Hytale server  
+5) Connect the plugin to your Tip4Serv store
 
 > Once connected, your server will automatically receive and execute commands after a purchase.
 
